@@ -10,7 +10,7 @@ Small tools, utilities, and personal projects.
 Linux-based setups, configs, and troubleshooting.
 
 🛠️ Tools & Tech I Use
-Languages: Python, Lua, JavaScript, HTML
+Languages: Python, Lua, JavaScript, HTML.
 Editor: VS Code.
 Operating Systems: Various Linux distros.
 Other: Git, CLI tools, general system tinkering.
